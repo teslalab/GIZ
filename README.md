@@ -37,7 +37,7 @@ En algunos casos nuestra PC no es capaz de reconocer el dispositivo USB que noso
 
 # Mapeo de Pines
 
-## Balam Board V2.1 
+## STEM Board v1.0 
 
 ### NeoPixel
 Dispositivo | GPIO 
