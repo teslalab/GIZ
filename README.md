@@ -50,6 +50,14 @@ Dispositivo | GPIO
 --- | --- 
 Buzzer | 27 
 
+### Motores
+Dispositivo | GPIO 
+--- | --- 
+AIN 1 | 32
+AIN 2 | 33
+BIN 1 | 25
+BIN 2 | 26
+
 ### Ultrasónico
 Dispositivo | GPIO 
 --- | --- 
@@ -75,3 +83,14 @@ CLK | 18
 CS | 5
 SDI | 19
 SDO | 23
+
+
+### GPIO Extras
+Dispositivo | GPIO 
+--- | --- 
+VCC | 5V
+GND | Ground
+0 | 36
+1 | 39
+2 | 34
+3 | 35
